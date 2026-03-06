@@ -3,3 +3,5 @@ console.log(`alunoB inserindo a linha 2`);
 
 let concatenar: string = `Git` + `Hub`;
 console.log(`Concatenado ${concatenar}`);
+
+console.log(`Inserindo linha 7 pelo alunoB`);
